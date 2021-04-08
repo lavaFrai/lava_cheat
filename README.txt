@@ -41,7 +41,7 @@ Arduino | Модуль
 
 Arduino | Модуль
 ------------------
- 2      | D1
+ D2     | D1
  GND    | GND
  VCC    | +5v
  
