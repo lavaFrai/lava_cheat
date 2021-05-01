@@ -72,12 +72,12 @@
 /*Без ведущих нулей, в числовом виде*/
 /*!!!Или теперь можно не указывать и тогда время автоматически установится по системным часам */
 
-#define DAY BUILD_DAY  // Число
-#define MOUNTH BUILD_MOUNTH  // Месяц
-#define YEAR BUILD_YEAR  // Год (только последние две цифры)
+#define DAY (BUILD_DAY)  // Число
+#define MOUNTH (BUILD_MOUNTH)  // Месяц
+#define YEAR (BUILD_YEAR)  // Год (только последние две цифры)
 
-#define MINUTE BUILD_MIN  // Минуты
-#define HOURS BUILD_HOUR // Часы (В 24 часовом формате)
+#define MINUTE (BUILD_MIN)  // Минуты
+#define HOURS (BUILD_HOUR) // Часы (В 24 часовом формате)
 
 /*------------------------------------------*/
 
